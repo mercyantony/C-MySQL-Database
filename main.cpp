@@ -18,7 +18,7 @@ int main()
     int qstate;
 
     conn = mysql_init(0);
-    conn = mysql_real_connect(conn, "localhost", "root", "", "tutorial", 0, NULL, 0);
+    conn = mysql_real_connect(conn, "localhost", "root", "****", "cppdb", 3306, NULL, 0);
 
     if(conn)
     {
