@@ -13,4 +13,9 @@ Codeblocks
 XAMPP server
 phpMyAdmin
 
+Files integration
+
+1. libmysql.a
+2. libmysql.dll
+
 
